@@ -17,7 +17,7 @@ Identify patterns between ratings, review length, and sentiment
 
 Amazon product reviews dataset (Amazon Alexa reviews)
 
-Key features include:
+### Key features include:
 
 verified_reviews – customer review text
 
@@ -27,13 +27,13 @@ feedback – sentiment label (positive/negative)
 
 variation, date
 
-A new feature length was engineered to represent review length
+A new feature "length" was engineered to represent review length
 
 ## 🛠️ Tools & Technologies
 
 Python
 
-Libraries:
+### Libraries:
 
 Pandas, NumPy
 
