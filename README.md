@@ -1,9 +1,9 @@
-#🛒 Amazon Reviews Sentiment Analysis
-##📌 Project Overview
+# 🛒Amazon Reviews Sentiment Analysis
+## 📌 Project Overview
 
 This project performs sentiment analysis on Amazon product reviews to classify customer feedback as positive or negative. Using Natural Language Processing (NLP) techniques and supervised machine learning models, the project extracts insights from textual reviews to understand customer sentiment and purchasing behavior.
 
-##🎯 Objectives
+## 🎯 Objectives
 
 Analyze customer sentiment from Amazon product reviews
 
@@ -13,7 +13,7 @@ Build and evaluate machine learning models for sentiment classification
 
 Identify patterns between ratings, review length, and sentiment
 
-##📊 Dataset Description
+## 📊 Dataset Description
 
 Amazon product reviews dataset (Amazon Alexa reviews)
 
@@ -29,7 +29,7 @@ variation, date
 
 A new feature length was engineered to represent review length
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python
 
@@ -45,7 +45,7 @@ Scikit-learn (modeling & evaluation)
 
 Jupyter Notebook
 
-##🔍 Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 Handled missing values in review text
 
@@ -57,7 +57,7 @@ Verified data types and feature distributions
 
 Observed strong correlation between ratings and sentiment labels
 
-##🧠 Text Preprocessing
+## 🧠 Text Preprocessing
 
 Lowercasing and text normalization
 
@@ -67,7 +67,7 @@ Tokenization and vectorization
 
 Feature extraction using TF-IDF / Count Vectorizer
 
-##🤖 Model Building & Evaluation
+## 🤖 Model Building & Evaluation
 
 Train-test split for model validation
 
@@ -83,7 +83,7 @@ Confusion matrix
 
 Classification report
 
-##📈 Key Insights
+## 📈 Key Insights
 
 Positive reviews significantly outnumber negative reviews
 
@@ -93,6 +93,6 @@ Longer reviews tend to contain more detailed feedback
 
 The trained model successfully predicts sentiment from unseen reviews
 
-#🚀 Conclusion
+# 🚀 Conclusion
 
 This project demonstrates practical expertise in NLP, feature engineering, and supervised machine learning. It showcases an end-to-end sentiment analysis pipeline—from raw text to model evaluation—making it highly relevant for Data Analyst / Data Scientist / ML Engineer roles.
